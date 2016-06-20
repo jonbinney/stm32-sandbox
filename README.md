@@ -1,3 +1,5 @@
+Tested on Ubuntu 16.04
+
 ## Setting up the tools
 
 Install dependencies.
